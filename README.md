@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @okechukwu-opara
-- 👀 I’m interested in cloud and security
+- 👋 Hi, I’m Okechukwu Chike Opara
+- 👀 I’m interested in cloud (devops) and security
 - 🌱 I’m currently learning information technology security
 - 💞️ I’m looking to collaborate on cloud security projects
 - 📫 How to reach me here on github
